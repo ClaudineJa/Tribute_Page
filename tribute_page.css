@@ -1,0 +1,47 @@
+.name {
+	font-family:'Tangerine', 'Arial', 'sans-serif';
+	font-size: 50px;
+}
+
+.intro {
+	font-size: 20px;
+}
+
+#logo {
+	margin-top: 3%;
+}
+
+.container-fluid {
+	margin-bottom:5%;
+}
+dt, dd {
+	font-family:'Arial', 'sans-serif'
+	font-size: 15px;
+}
+
+dl.row {
+	margin-left: 30%;
+}
+
+#face {
+	margin: 10% 0 10% 30%;
+}
+
+#quote {
+	font-family: 'Tangerine', 'Arial', 'sans-serif';
+	font-size: 40px;
+	margin: 10%;
+}
+
+.link {
+	text-align: center;
+	margin-top:3%;
+}
+
+p {
+	font-family:'Arial', 'sans-serif';
+}
+
+.footer {
+	text-align: center;
+}

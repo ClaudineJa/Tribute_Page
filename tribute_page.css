@@ -31,6 +31,8 @@ dl.row {
 	font-family: 'Tangerine', 'Arial', 'sans-serif';
 	font-size: 40px;
 	margin: 10%;
+	border-top: 2px solid grey;
+	border-bottom: 2px solid grey;
 }
 
 .link {

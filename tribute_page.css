@@ -24,12 +24,14 @@ dl.row {
 }
 
 #face {
-	margin: 10% 0 10% 30%;
+	margin: 10%;
+	border:3px solid grey;
+	border-radius:50%;
 }
 
 #quote {
 	font-family: 'Tangerine', 'Arial', 'sans-serif';
-	font-size: 40px;
+	font-size: 35px;
 	margin: 10%;
 	border-top: 2px solid grey;
 	border-bottom: 2px solid grey;
